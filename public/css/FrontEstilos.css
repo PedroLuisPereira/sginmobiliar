@@ -1,0 +1,20 @@
+.logo{
+    width: 25%;
+    height: 30%;
+    margin: 0;
+        
+}
+
+.nosotros{
+    background-image: url("paper.gif");
+}
+
+.tarjeta{
+    margin: 1%;
+    background-color: #e5e1e1
+}
+
+.inmInm {
+    background-color: red;
+    
+}
